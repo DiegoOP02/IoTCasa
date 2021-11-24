@@ -21,8 +21,8 @@
           style="font-weight: 350;font-size:230%"
         >
           <b>
-            Make good things
-            <span style="color: #1a73e8;">together</span>.
+            IoT en casa 
+            <span style="color: #1a73e8;">¿Quieres saber que es IoT en casa?</span>.
           </b>
         </p>
         <p class="google-font mt-0 mb-0" style="font-size:150%">{{config.generalConfig.name}}</p>
