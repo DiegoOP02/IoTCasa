@@ -22,7 +22,7 @@
         >
           <b>
             IoT en casa 
-            <span style="color: #1a73e8;">¿Quieres conocer que es IoT en casa?</span>.
+            <span style="color: #FF0000;">¿Quieres conocer que es IoT en casa?</span>.
           </b>
         </p>
         <p class="google-font mt-0 mb-0" style="font-size:150%">{{config.generalConfig.name}}</p>
