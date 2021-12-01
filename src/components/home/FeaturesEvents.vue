@@ -5,9 +5,9 @@
         <p class="google-font mb-0 mt-0" style="font-weight: 350;font-size:180%">
           <b>
             Our
-            <span style="color: #1a73e8;">Feature Event</span>
+            <span style="color: #0000FF;">Cosas interesantes de IoT en casa</span>
             &
-            <span style="color: #1a73e8;">Meetup</span>
+            <span style="color: #00F53B;">¿Sabias que podias hacer esto con la IoT en casa?</span>
           </b>
         </p>
         <p
